@@ -13,3 +13,7 @@ Below are links to tech content that I've written & have published.
 ## The New Stack
 
 - [Navigating the human element of a DevOps Transformation](https://thenewstack.io/navigating-the-human-element-of-a-devops-transformation/)
+
+## Medium Blog
+
+- https://medium.com/@divya.mohan0209/
