@@ -16,8 +16,8 @@ Below are links to tech content that I've written & have published.
 
 ## Medium Blog
 
-- https://medium.com/@divya.mohan0209/
+- [https://divya-mohan0209.medium.com/](https://divya-mohan0209.medium.com/)
 
 ## Newsletter
 
-- https://www.getrevue.co/profile/divyamohan/
+- [https://www.getrevue.co/profile/divyamohan/](https://www.getrevue.co/profile/divyamohan/)
