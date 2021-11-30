@@ -14,6 +14,10 @@ Below are links to tech content that I've written & have published.
 
 - [Navigating the human element of a DevOps Transformation](https://thenewstack.io/navigating-the-human-element-of-a-devops-transformation/)
 
+## Container Solutions
+
+- [How can corporate open source consumers be better citizens](https://blog.container-solutions.com/how-can-corporate-open-source-consumers-be-better-citizens)
+
 ## Medium Blog
 
 - [https://divya-mohan0209.medium.com/](https://divya-mohan0209.medium.com/)
