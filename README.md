@@ -14,6 +14,7 @@ Below are links to tech content that I've written & have published.
 
 - [Navigating the human element of a DevOps Transformation](https://thenewstack.io/navigating-the-human-element-of-a-devops-transformation/)
 - [Are Cloud-Based IDEs the Future of Software Engineering?](https://thenewstack.io/are-cloud-based-ides-the-future-of-software-engineering/)
+- [How TypeScript can speed up your adoption of WebAssembly](https://thenewstack.io/how-typescript-can-speed-up-your-adoption-of-webassembly/)
 
 ## Container Solutions
 
